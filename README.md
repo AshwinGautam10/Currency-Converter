@@ -44,7 +44,9 @@ It fetches live exchange rates from a public API and allows users to convert bet
 
 ## 🖼️ Preview
 
-![Currency Converter Screenshot](./screenshot.png)
+![Currency Converter Screenshot]
+<img width="1919" height="900" alt="Screenshot 2025-11-04 145745" src="https://github.com/user-attachments/assets/b1543559-38a8-4cab-813b-bb0ba7117c94" />
+
 
 ---
 
